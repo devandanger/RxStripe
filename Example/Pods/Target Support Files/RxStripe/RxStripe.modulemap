@@ -1,0 +1,6 @@
+framework module RxStripe {
+  umbrella header "RxStripe-umbrella.h"
+
+  export *
+  module * { export * }
+}

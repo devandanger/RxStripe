@@ -1,0 +1,22 @@
+{
+  "name": "RxStripe",
+  "version": "0.1.0",
+  "summary": "A short description of RxStripe.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/devandanger/RxStripe",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "devandanger": "devandanger@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/devandanger/RxStripe.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RxStripe/Classes/**/*"
+}
